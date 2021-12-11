@@ -3,10 +3,10 @@ import java.util.Scanner;
 public class HW5_1_14 {
 
     public static void main(String[] args) {
-        Task_1_14();
+        HW5_1_14();
     }
 
-    public static void Task_1_14() {
+    public static void HW5_1_14() {
         System.out.println("Введіть рядок чисел: ");
         Scanner scanner = new Scanner(System.in);
         String[] array = scanner.nextLine().split(" ");
